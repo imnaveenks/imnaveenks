@@ -1,28 +1,5 @@
-# Big Bash League (BBL) Cricket Analysis
+Recent Business Analytics graduate from the University of Western Australia with hands-on experience in Python, SQL, Tableau and Power BI. Currently building my portfolio and seeking Data Analyst roles in Perth.
 
-## Overview
-An exploratory data analysis of Big Bash League cricket data 
-using Python and Pandas to uncover performance trends across 
-teams and players.
+📧 Connect with me on LinkedIn: http://linkedin.com/in/imnaveenks
 
-## Key Findings
-- Perth Scorchers and Sydney Sixers are the most successful 
-  BBL teams with 64 wins each
-- Winning the toss has minimal impact on match outcome (52% vs 48%)
-- Perth Scorchers win 55% of home games vs 45% away
-- Chris Lynn is the highest run scorer in BBL history
-
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
-
-## Dataset
-Big Bash League dataset from Kaggle containing match summaries 
-and ball by ball delivery data across multiple BBL seasons.
-
-## Author
-Naveen KS
-Masters in Analytics Graduate | University of Western Australia
 
